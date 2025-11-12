@@ -15,6 +15,7 @@
 | Visual-FixPack  | A visual overhaul pack to make it look more stable and appealing. |
 | Clean-Conscientious-Objector  | Rebuilding the material makes the Conscientious Objector look cleaner. |
 | No-Explosions and No-Smoke Rocket Launcher  | Remove the Explosions and Smoke effects of the Rocket Launcher. |
+| No-Yellow-Overlay Scopes Sniper Rifle  | Remove the yellow tint overlay from all sniper rifle scopes, making them look cleaner. |
 
 * **launch options:** `-novid -nojoy -particles 1 -nohltv -nosteamcontroller -precachefontchars +sv_allow_point_servercommand always`
 
