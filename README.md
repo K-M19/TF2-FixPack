@@ -14,6 +14,7 @@
 | Viewmodel-FixPack  | Fixes Viewmodel issues when using viewmodel_fov above 90, such as funny bugs and glitches (e.g., Spy’s and Soldier’s “mystery arms”). This mod fixes all Viewmodel-related errors. |
 | Visual-FixPack  | A visual overhaul pack to make it look more stable and appealing. |
 | Clean-Conscientious-Objector  | Rebuilding the material makes the Conscientious Objector look cleaner. |
+| No-Explosions and No-Smoke Rocket Launcher  | Remove the Explosions and Smoke effects of the Rocket Launcher. |
 
 * **launch options:** `-novid -nojoy -particles 1 -nohltv -nosteamcontroller -precachefontchars +sv_allow_point_servercommand always`
 
