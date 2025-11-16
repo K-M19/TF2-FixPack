@@ -1,7 +1,0 @@
-"UnlitGeneric"
-{
-	"$basetexture" "vgui/replay/thumbnails/team/team_blu"
-	"$translucent" 1
-	"$ignorez" 1
-	"$vertexcolor" 1
-}

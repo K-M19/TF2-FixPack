@@ -1,6 +1,0 @@
-"UnlitGeneric"
-{
-	"$basetexture" "vgui/replay/thumbnails/border/console"
-	"$allowAlphaToCoverage" 1
-	"$alphatest" 1
-}

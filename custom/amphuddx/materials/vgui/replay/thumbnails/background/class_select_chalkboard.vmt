@@ -1,8 +1,0 @@
-"UnlitGeneric"
-{
-	"$baseTexture" "vgui/replay/thumbnails/background/class_select_chalkboard"
-	"%keywords" "tf"
-	"$ignorez" 1
-	"$translucent" 1
-}
-

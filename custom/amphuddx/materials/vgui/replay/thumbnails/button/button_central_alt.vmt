@@ -1,6 +1,0 @@
-"UnlitGeneric"
-{
-	"$basetexture" "vgui/replay/thumbnails/button/button_central_alt"
-	"$translucent" 1
-	"$ignorez" 1
-}
